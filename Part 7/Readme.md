@@ -1,3 +1,8 @@
+# TODO:
+
+modify your sequencer to use the PIO as its primary I/O engine, including the ability to R/W any register
+
+
 ## We made following Modifications:
 
 ### Modifications were made in the ws2812.pio file to read the boot pin using PIO.
