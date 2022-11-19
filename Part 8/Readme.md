@@ -1,3 +1,8 @@
+# TODO:
+
+Use the capabilities of your sequencer to implement the ADPS9960 protocol and control the sensor.
+
+
 
 ## Modifications implemented:
 Modified pico-examples example for i2c bus scan in PIO. The proximity sensor gave just 2 values 230 or a 231 based on how close to the sensor 
